@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-label="Trophy Shot Placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#1b1b1b"/>
+      <stop offset="100%" stop-color="#3b3b3b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="900" fill="url(#g)"/>
+  <rect x="120" y="120" width="1160" height="660" fill="#d4af37" opacity="0.08" rx="26"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="Playfair Display, serif" font-size="48" fill="#f5f2e9">Trophy Shot</text>
+  <text x="50%" y="56%" text-anchor="middle" font-family="Source Serif Pro, serif" font-size="22" fill="#f5f2e9" opacity="0.85">Replace with Dennis and Mira with trophy</text>
+</svg>
