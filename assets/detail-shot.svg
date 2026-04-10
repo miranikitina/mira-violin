@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-label="Detail Shot Placeholder">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0d1f1a"/>
+      <stop offset="100%" stop-color="#1f4032"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#g)"/>
+  <path d="M200 650 C 500 500, 800 700, 1200 420" stroke="#d4af37" stroke-width="6" fill="none" opacity="0.6"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="Playfair Display, serif" font-size="52" fill="#f5f2e9">Detail Shot</text>
+  <text x="50%" y="56%" text-anchor="middle" font-family="Source Serif Pro, serif" font-size="22" fill="#f5f2e9" opacity="0.85">Replace with close-up of hands on strings</text>
+</svg>
