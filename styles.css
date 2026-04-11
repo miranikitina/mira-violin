@@ -239,8 +239,16 @@ p {
 }
 
 .hero__intro h1,
+.hero__intro h2,
 .hero__intro .lead {
   color: var(--white);
+}
+
+.hero__intro h2 {
+  font-size: clamp(1.35rem, 2.2vw, 2rem);
+  font-weight: 500;
+  margin-top: 14px;
+  margin-bottom: 12px;
 }
 
 .hero__actions {
@@ -369,7 +377,7 @@ p {
   position: relative;
   color: var(--white);
   background-color: rgb(14, 35, 30);
-  background-image: url("assets/Screenshot 2026-04-08 at 5.43.23 PM-overlay.png");
+  background-image: url("assets/layer.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
