@@ -1,0 +1,212 @@
+.wedding-page{background:#f7f2e8;color:#25231f}.wedding-page h1,.wedding-page h2,.wedding-page h3{font-family:"Playfair Display",serif}.wedding-page p,.wedding-page a,.wedding-page button,.wedding-page summary,.wedding-page span{font-family:"Source Serif Pro",serif}.shell{width:min(1180px,calc(100% - 40px));margin-inline:auto}.wedding-header{position:sticky;top:0;z-index:50;background:rgba(248,244,235,.94);backdrop-filter:blur(14px);border-bottom:1px solid rgba(107,90,55,.13)}.wedding-nav{min-height:78px;display:flex;align-items:center;justify-content:space-between;gap:24px}.wedding-brand{text-decoration:none;color:#213128;display:flex;flex-direction:column;line-height:1.05}.wedding-brand__name{font-family:"Playfair Display",serif!important;font-size:1.35rem;font-weight:600}.wedding-brand__sub{font-size:.74rem;letter-spacing:.14em;text-transform:uppercase;margin-top:7px;color:#8b7244}.wedding-nav__links{display:flex;align-items:center;gap:22px}.wedding-nav__links a{color:#354239;text-decoration:none;font-size:.92rem}.wedding-nav__cta{border:1px solid #aa8a50;padding:10px 15px;border-radius:999px}.wedding-hero{min-height:690px;display:grid;grid-template-columns:minmax(340px,.84fr) minmax(0,1.16fr);background:#eee4d3}.wedding-hero__copy{align-self:center;padding:80px clamp(36px,7vw,120px);padding-right:clamp(32px,5vw,76px)}.wedding-eyebrow,.wedding-kicker{color:#9b7b43;text-transform:uppercase;letter-spacing:.16em;font-size:.78rem;font-weight:600}.wedding-hero h1{font-size:clamp(3rem,5.4vw,5.9rem);line-height:.96;margin:18px 0 24px;color:#1d3025;font-weight:500}.wedding-hero__lead{font-size:1.2rem;line-height:1.7;max-width:570px;color:#5c584f}.wedding-hero__actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:32px}.wedding-btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 22px;border-radius:999px;text-decoration:none;transition:.2s ease}.wedding-btn--gold{background:#9d7b43;color:#fff}.wedding-btn--gold:hover{transform:translateY(-2px);background:#856735}.wedding-btn--quiet{border:1px solid rgba(33,49,40,.28);color:#213128}.wedding-hero__tags{display:flex;gap:10px;flex-wrap:wrap;margin-top:38px}.wedding-hero__tags span{font-size:.8rem;letter-spacing:.05em;padding:8px 12px;border-radius:999px;background:rgba(255,255,255,.48);color:#526057}.wedding-hero__visual{margin:0;min-height:690px;overflow:hidden}.wedding-hero__visual img{width:100%;height:100%;display:block;object-fit:cover;object-position:center}.wedding-intro{padding:110px 0}.wedding-intro>h2,.wedding-listen h2,.wedding-repertoire h2,.wedding-about h2,.wedding-inquiry h2{font-size:clamp(2.3rem,4vw,4.2rem);font-weight:500;line-height:1.08;color:#213128;margin:10px 0 22px}.wedding-intro__text,.wedding-section-lead{max-width:760px;color:#625f57;font-size:1.08rem;line-height:1.8}.wedding-services{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:52px}.wedding-services article{background:#fffaf1;border:1px solid #e5dac6;padding:34px;border-radius:20px}.wedding-services article>span{color:#b08b4f;font-size:.8rem}.wedding-services h3{font-size:1.55rem;color:#263a2e;margin:18px 0 12px}.wedding-services p{color:#68645b;line-height:1.65;margin:0}.wedding-listen{background:#1d3025;color:#f8f3e9;padding:105px 0}.wedding-listen .wedding-kicker{color:#d2b47d}.wedding-listen h2{color:#fffaf1}.wedding-listen .wedding-section-lead{color:#d6d6cc}.music-tabs{display:flex;gap:10px;flex-wrap:wrap;margin:36px 0 28px}.music-tab{appearance:none;border:1px solid rgba(255,255,255,.2);background:transparent;color:#eee7d9;padding:10px 16px;border-radius:999px;cursor:pointer;font-size:.92rem}.music-tab.is-active{background:#c7a66b;color:#1d3025;border-color:#c7a66b}.music-samples{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.music-card{border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.055);border-radius:16px;padding:20px;min-height:104px;display:flex;align-items:center;gap:15px}.music-play{width:42px;height:42px;border-radius:50%;border:1px solid #d2b47d;background:transparent;color:#e4c98f;flex:0 0 auto}.music-card h3{font-size:1.05rem;margin:0 0 4px;color:#fffaf1}.music-card p{font-size:.84rem;color:#bbbdb4;margin:0}.music-note{font-size:.85rem;color:#aeb3aa;margin-top:18px}.wedding-repertoire{padding:110px 0}.wedding-repertoire__heading{display:grid;grid-template-columns:1.2fr .8fr;gap:60px;align-items:end}.wedding-repertoire__heading>p{color:#6c675e;line-height:1.7}.repertoire-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:42px}.repertoire-grid details{background:#fffaf1;border:1px solid #e3d7c1;border-radius:14px;padding:0 20px}.repertoire-grid summary{cursor:pointer;list-style:none;padding:20px 0;font-size:1.08rem;color:#283b30;font-weight:600}.repertoire-grid details p{padding:0 0 20px;margin:0;color:#6c675e}.special-request{margin-top:28px;border-left:3px solid #aa8a50;padding:8px 0 8px 20px;display:flex;gap:8px;flex-direction:column;color:#4f514b}.wedding-about{background:#ebe2d2;padding:95px 0}.wedding-about__inner{display:grid;grid-template-columns:1.1fr .9fr;gap:70px;align-items:center}.wedding-about__copy>p:not(.wedding-kicker){font-size:1.08rem;line-height:1.75;color:#625f57}.wedding-text-link{color:#7f6235;text-decoration:none;font-weight:600}.wedding-about__quote{background:#f8f2e7;border-radius:22px;padding:40px}.wedding-about__quote>span{font-family:"Playfair Display",serif!important;font-size:4rem;line-height:.6;color:#b08b4f}.wedding-about__quote p{font-family:"Playfair Display",serif;font-size:1.55rem;line-height:1.45;color:#2b3b31;margin:16px 0 0}.wedding-inquiry{background:#f8f3e9;padding:110px 0;text-align:center}.wedding-inquiry__inner{max-width:780px}.wedding-inquiry p:not(.wedding-kicker){color:#656158;line-height:1.75;font-size:1.05rem;margin-bottom:30px}.wedding-footer{background:#17271e;color:#ded8cc;padding:34px 0}.wedding-footer .shell{display:flex;justify-content:space-between;align-items:center;gap:20px}.wedding-footer strong{font-family:"Playfair Display",serif;display:block;color:#fff7e8}.wedding-footer span{font-size:.82rem;color:#aaa99f}.wedding-footer a{color:#d7bc87;text-decoration:none}[data-reveal]{opacity:0;transform:translateY(18px);transition:opacity .7s ease,transform .7s ease}[data-reveal].is-visible{opacity:1;transform:none}
+@media(max-width:900px){.wedding-nav__links a:not(.wedding-nav__cta){display:none}.wedding-hero{grid-template-columns:1fr}.wedding-hero__copy{padding:62px 28px 48px}.wedding-hero__visual{min-height:520px}.wedding-services,.music-samples{grid-template-columns:1fr}.wedding-repertoire__heading,.wedding-about__inner{grid-template-columns:1fr;gap:28px}.repertoire-grid{grid-template-columns:1fr}}
+@media(max-width:560px){.shell{width:min(100% - 28px,1180px)}.wedding-nav{min-height:68px}.wedding-brand__name{font-size:1.12rem}.wedding-brand__sub{font-size:.64rem}.wedding-nav__cta{padding:9px 12px!important;font-size:.82rem!important}.wedding-hero h1{font-size:3.1rem}.wedding-hero__visual{min-height:430px}.wedding-intro,.wedding-repertoire,.wedding-listen,.wedding-inquiry{padding:76px 0}.wedding-footer .shell{align-items:flex-start;flex-direction:column}}
+@media(prefers-reduced-motion:reduce){[data-reveal]{opacity:1;transform:none;transition:none}.wedding-btn{transition:none}}
+/* Wedding brand logo */
+
+.wedding-brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+}
+
+.wedding-brand__logo {
+  width: 74px;
+  height: 74px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.wedding-brand__text {
+  display: flex;
+  flex-direction: column;
+}
+
+.wedding-brand__name {
+  color: #16382d;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.25rem;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.wedding-brand__sub {
+  margin-top: 4px;
+  color: #a67c38;
+  font-size: 0.66rem;
+  font-weight: 600;
+  letter-spacing: 0.17em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 760px) {
+  .wedding-brand__logo {
+    width: 58px;
+    height: 58px;
+  }
+
+  .wedding-brand__name {
+    font-size: 1.05rem;
+  }
+
+  .wedding-brand__sub {
+    font-size: 0.56rem;
+  }
+}
+/* Refined wedding header */
+
+.wedding-header {
+  background: #faf7ef;
+}
+
+.wedding-nav {
+  min-height: 104px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.wedding-brand {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: center !important;
+  gap: 16px;
+}
+
+.wedding-brand__logo {
+  width: 82px !important;
+  height: 82px !important;
+  display: block;
+  object-fit: contain;
+}
+
+.wedding-brand__text {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.wedding-brand__name {
+  color: #17382d;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size: 1.28rem;
+  font-weight: 600;
+  line-height: 1.05;
+}
+
+.wedding-brand__sub {
+  margin-top: 5px;
+  color: #a77d3c;
+  font-size: 0.63rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+@media (max-width: 760px) {
+  .wedding-nav {
+    min-height: 82px;
+  }
+
+  .wedding-brand__logo {
+    width: 62px !important;
+    height: 62px !important;
+  }
+}
+wedding-location {
+  margin-top: 18px;
+  color: #8d6d3d;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.wedding-travel {
+  margin: 18px 0;
+  color: #a77d3c;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+/* Meet your violinist portrait */
+
+.wedding-about__photo {
+  width: 100%;
+  max-width: 430px;
+  margin-left: auto;
+  overflow: hidden;
+  border-radius: 28px 28px 6px 28px;
+  background: #f3eadb;
+  box-shadow: 0 18px 50px rgba(31, 54, 44, 0.10);
+}
+
+.wedding-about__photo img {
+  display: block;
+  width: 100%;
+  height: 520px;
+  object-fit: cover;
+  object-position: center 35%;
+}
+
+.wedding-travel {
+  margin: 18px 0 16px;
+  color: #a77d3c;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+@media (max-width: 800px) {
+  .wedding-about__photo {
+    max-width: 480px;
+    margin: 30px auto 0;
+  }
+
+  .wedding-about__photo {
+  width: 100%;
+  max-width: 470px;
+  margin-left: auto;
+  overflow: hidden;
+  border-radius: 28px 28px 6px 28px;
+  background: #f3eadb;
+  box-shadow: 0 18px 50px rgba(31, 54, 44, 0.10);
+}
+
+.wedding-about__photo img {
+  display: block;
+  width: 100%;
+  height: 540px;
+  object-fit: cover;
+  object-position: center 32%;
+  transform: scale(1.07);
+  transform-origin: center center;
+}
+}
+.wedding-inquiry .btn--gold {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 24px;
+  padding: 14px 30px;
+
+  background: #b4873f;
+  border: 1px solid #b4873f;
+  border-radius: 999px;
+
+  color: #ffffff;
+  font-weight: 600;
+  text-decoration: none;
+
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.wedding-inquiry .btn--gold:hover {
+  background: #9d7334;
+  border-color: #9d7334;
+  color: #ffffff;
+  transform: translateY(-1px);
+}
