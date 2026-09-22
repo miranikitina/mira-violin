@@ -236,3 +236,24 @@ wedding-location {
     color: #b08a45;
   }
 }
+/* Hero services - desktop */
+@media (min-width: 701px) {
+  .wedding-hero__tags {
+    gap: 0;
+  }
+
+  .wedding-hero__tags span {
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  .wedding-hero__tags span:not(:last-child)::after {
+    content: " · ";
+    margin: 0 9px;
+    color: #b08a45;
+  }
+}
