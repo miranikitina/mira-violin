@@ -210,3 +210,27 @@ wedding-location {
   color: #ffffff;
   transform: translateY(-1px);
 }
+@media (max-width: 700px) {
+  .wedding-hero__tags {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0;
+  }
+
+  .wedding-hero__tags span {
+    background: transparent;
+    border: 0;
+    border-radius: 0;
+    padding: 0;
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .wedding-hero__tags span:not(:last-child)::after {
+    content: " · ";
+    margin: 0 9px;
+    color: #b08a45;
+  }
+}
