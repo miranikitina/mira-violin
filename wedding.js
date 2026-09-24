@@ -1,8 +1,16 @@
 const musicLibrary = {
-  ceremony: [
+ ceremony: [
   {
     title: "A Thousand Years",
     file: "assets/a-thousand-years.mp4"
+  },
+  {
+    title: "Perfect",
+    file: "assets/perfect.mp4"
+  },
+  {
+    title: "All of Me",
+    file: "assets/all-of-me.mp4"
   }
 ],
 
