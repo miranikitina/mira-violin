@@ -11,6 +11,10 @@ const musicLibrary = {
   {
     title: "All of Me",
     file: "assets/all-of-me.mp4"
+  },
+  {
+    title: "Oceans",
+    file: "assets/oceans.mp4"
   }
 ],
 
@@ -18,6 +22,10 @@ const musicLibrary = {
   {
     title: "Viva La Vida",
     file: "assets/viva-la-vida.mpeg"
+  },
+  {
+    title: "Creep",
+    file: "assets/creep.mp4"
   }
 ],
 
