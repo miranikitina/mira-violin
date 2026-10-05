@@ -1,72 +1,86 @@
 const musicLibrary = {
- ceremony: [
-  {
-    title: "A Thousand Years",
-    file: "assets/a-thousand-years.mp4"
-  },
-  {
-    title: "Perfect",
-    file: "assets/perfect.mp4"
-  },
-  {
-    title: "All of Me",
-    file: "assets/all-of-me.mp4"
-  },
-  {
-    title: "Oceans",
-    file: "assets/oceans.mp4"
-  }
-],
+  ceremony: [
+    {
+      title: "River Flows in You",
+      file: "assets/river-flows-in-you-yiruma.mp4"
+    },
+    {
+      title: "A Thousand Years",
+      file: "assets/a-thousand-years.mp4"
+    },
+    {
+      title: "Perfect",
+      file: "assets/perfect.mp4"
+    },
+    {
+      title: "All of Me",
+      file: "assets/all-of-me.mp4"
+    },
+    {
+      title: "Oceans",
+      file: "assets/oceans.mp4"
+    },
+    
+  ],
 
   pop: [
-  {
-    title: "Viva La Vida",
-    file: "assets/viva-la-vida.mpeg"
-  },
-  {
-    title: "Creep",
-    file: "assets/creep.mp4"
-  }
-],
+    {
+      title: "Viva La Vida",
+      file: "assets/viva-la-vida.mpeg"
+    },
+    {
+      title: "Creep",
+      file: "assets/creep.mp4"
+    },
+    {
+      title: "Marry You",
+      file: "assets/marry-you-brumo-mars.mp4"
+    }
+  ],
 
- bollywood: [
-  {
-    title: "Kal Ho Naa Ho",
-    file: "assets/kal-ho-naa-ho.mpeg"
-  },
-  {
-    title: "Tum Hi Ho",
-    file: "assets/tum-hi-ho.mpeg"
-  },
-  {
-    title: "Din Shagna Da",
-    file: "assets/din-shagna-da.mpeg"
-  }
-],
+  bollywood: [
+    {
+      title: "Kal Ho Naa Ho",
+      file: "assets/kal-ho-naa-ho.mpeg"
+    },
+    {
+      title: "Tum Hi Ho",
+      file: "assets/tum-hi-ho.mpeg"
+    },
+    {
+      title: "Din Shagna Da",
+      file: "assets/din-shagna-da.mpeg"
+    }
+  ],
 
   jazz: [
-  {
-    title: "The Pink Panther",
-    file: "assets/the-pink-panther.mpeg"
-  }
-],
+    {
+      title: "The Pink Panther",
+      file: "assets/the-pink-panther.mpeg"
+    }
+  ],
 
   cocktail: [
-  {
-    title: "The Girl from Ipanema",
-    file: "assets/the-girl-from-ipanema.mpeg"
-  },
-  {
-    title: "Libertango",
-    file: "assets/libertango.mpeg"
-  },
-],
-classical: [
-  {
-    title: "Mozart — Eine kleine Nachtmusik",
-    file: "assets/mozart-eine-kleine-nachtmusik.mpeg"
-  }
-]
+    {
+      title: "The Girl from Ipanema",
+      file: "assets/the-girl-from-ipanema.mpeg"
+    },
+    {
+      title: "Libertango",
+      file: "assets/libertango.mpeg"
+    },
+    {
+      title: "Por Una Cabeza",
+      file: "assets/por-una-cabeza.mp4"
+    }
+  ],
+
+  classical: [
+    {
+      title: "Mozart — Eine kleine Nachtmusik",
+      file: "assets/mozart-eine-kleine-nachtmusik.mpeg"
+    }
+  ]
 };
 
 
