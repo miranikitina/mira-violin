@@ -52,7 +52,16 @@
       <a href="#listen">Listen</a>
       <a href="#repertoire">Repertoire</a>
       <a href="index.html">Violin Lessons</a>
-      <a class="wedding-nav__cta" href="#inquiry">Inquire About Your Date</a>
+      <a
+  class="wedding-nav__cta"
+  href="#inquiry"
+  onclick="gtag('event', 'inquiry_click', {
+    'event_category': 'engagement',
+    'event_label': 'Navigation Inquiry Button'
+  });"
+>
+  Inquire About Your Date
+</a>
     </div>
 
   </nav>
@@ -65,7 +74,16 @@
         <h1 id="wedding-title">Live Violin for Your Wedding Day</h1>
         <p class="wedding-hero__lead">Elegant live music for your ceremony, cocktail hour, and the moments you want to remember.</p>
         <div class="wedding-hero__actions">
-  <a class="wedding-btn wedding-btn--gold" href="#inquiry">Inquire About Your Date</a>
+  <a
+  class="wedding-btn wedding-btn--gold"
+  href="#inquiry"
+  onclick="gtag('event', 'inquiry_click', {
+    'event_category': 'engagement',
+    'event_label': 'Hero Inquiry Button'
+  });"
+>
+  Inquire About Your Date
+</a>
   <a class="wedding-btn wedding-btn--quiet" href="#listen">Listen to Samples</a>
   <a class="wedding-btn wedding-btn--quiet wedding-btn--repertoire" href="#repertoire">
     View Repertoire
@@ -382,7 +400,16 @@
           <p class="wedding-travel">
   Based in Ottawa &nbsp;•&nbsp; Available for travel
 </p>
-          <a class="wedding-text-link" href="#inquiry">Tell me about your wedding →</a>
+          <a
+  class="wedding-text-link"
+  href="#inquiry"
+  onclick="gtag('event', 'inquiry_click', {
+    'event_category': 'engagement',
+    'event_label': 'About Inquiry Link'
+  });"
+>
+  Tell me about your wedding →
+</a>
         </div>
         <div class="wedding-about__photo">
   <img
@@ -401,7 +428,14 @@
   like live violin. I’ll be happy to discuss the music, your ideas and the
   details that will make the day feel personal.
 </p>
-        <a href="mailto:mirasviolinstudio@gmail.com"  class="btn btn--gold">
+        <a
+  href="mailto:mirasviolinstudio@gmail.com"
+  class="btn btn--gold"
+  onclick="gtag('event', 'contact_click', {
+    'event_category': 'lead',
+    'event_label': 'Email Inquiry Button'
+  });"
+>
   Inquire About Your Date
 </a>
       </div>
