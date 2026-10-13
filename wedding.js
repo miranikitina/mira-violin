@@ -70,6 +70,10 @@ const musicLibrary = {
       file: "assets/libertango.mpeg"
     },
     {
+    title: "Over the Rainbow",
+    file: "assets/over-the-rainbow.mp4"
+    },
+    {
       title: "Por Una Cabeza",
       file: "assets/por-una-cabeza.mp4"
     }
